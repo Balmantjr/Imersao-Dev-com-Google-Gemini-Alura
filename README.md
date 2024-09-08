@@ -1,4 +1,4 @@
-## **README.md Descontraído para o seu Projeto de Treinos**
+## **README.md Descontraído para o seu Projeto de Treinos - Imersão Dev com Google Gemini**
 
 ### **️‍♂️ Encontre o treino perfeito com apenas um clique!**
 
